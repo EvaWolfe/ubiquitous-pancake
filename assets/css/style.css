@@ -1,0 +1,11 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    height: 50px;
+    background-color: white;
+
+}
